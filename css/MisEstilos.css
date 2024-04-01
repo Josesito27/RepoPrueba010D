@@ -1,0 +1,17 @@
+body{
+    background-image: url("../img/fondo.jpg");
+}
+
+.fondonav{
+    background-color: gainsboro;
+}
+
+main{
+    margin-top: 15px;
+}
+
+#foto{
+    width:200px; height: 200px;
+    margin:auto;
+    display: block;
+}
